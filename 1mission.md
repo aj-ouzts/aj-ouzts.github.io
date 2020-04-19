@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Personal Mission Statement
+description: I filter my outlook through my faith in Christ, being grateful for the gifts I’ve been blessed with and to remain humble in all things. Understanding that excellence is diligence plus biblical integrity over time.
 nav-menu: true
 ---
 
