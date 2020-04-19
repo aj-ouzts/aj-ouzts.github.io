@@ -64,3 +64,5 @@ I try to live that as much as possible, though I fail spectacularly at times at 
 | Stolen bases | 19          | 7                                                                                                                  | 9                                                                                             |
 | Runs         | 26          | 16                                                                                                                 | 23                                                                                            |
 
+- [School Spotlight](https://www.pgccowls.com/spotlight/Alonzo_Ouzts)
+- [All-American List](https://www.abca.org/ABCA/Awards/All-Americans/NJCAA_Division_III/2013.aspx)
