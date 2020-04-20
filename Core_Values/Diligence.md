@@ -5,9 +5,12 @@ description: life
 nav-menu: false
 ---
 
-<center> <h4> 2 Peter 1:5-7 </h4>
-
-<b><i>5</i></b> In view of all this, make every effort to respond to God’s promises. Supplement your faith with a generous provision of moral excellence, and moral excellence with knowledge, <b><i>6</i></b> and knowledge with self-control, and self-control with patient endurance, and patient endurance with godliness, <b><i>7</i></b> and godliness with brotherly affection, and brotherly affection with love for everyone. </center> <br>
+<center> 
+    <h4> 2 Peter 1:5-7 </h4>
+        <b>
+            <b><i>5</i></b> In view of all this, make every effort to respond to God’s promises. Supplement your faith with a generous provision of moral excellence, and moral excellence with knowledge, <b><i>6</i></b> and knowledge with self-control, and self-control with patient endurance, and patient endurance with godliness, <b><i>7</i></b> and godliness with brotherly affection, and brotherly affection with love for everyone.
+        </b> 
+</center>
 
 <hr>
 

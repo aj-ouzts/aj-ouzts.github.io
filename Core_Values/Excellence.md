@@ -5,9 +5,12 @@ description: life
 nav-menu: false
 ---
 
-<center> <h4> Philippians 4:8-9 </h4>
-
-<b><i>8</i></b> And now, dear brothers and sisters, one final thing. Fix your thoughts on what is true, and honorable, and right, and pure, and lovely, and admirable. Think about things that are <b>excellent</b> and worthy of praise. <b><i>9</i></b> Keep putting into practice all you learned and received from me—everything you heard from me and saw me doing. Then the God of peace will be with you. </center> <br>
+<center> 
+    <h4> Philippians 4:8-9 </h4>
+        <b>
+            <b><i>8</i></b> And now, dear brothers and sisters, one final thing. Fix your thoughts on what is true, and honorable, and right, and pure, and lovely, and admirable. Think about things that are <b>excellent</b> and worthy of praise. <b><i>9</i></b> Keep putting into practice all you learned and received from me—everything you heard from me and saw me doing. Then the God of peace will be with you. 
+        </b>
+</center>
 
 <hr>
 
