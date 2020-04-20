@@ -127,9 +127,10 @@
 	}
 
 	blockquote {
-		color: #9AACB8;
+		color: #9aacb8;
 		border-left: solid 4px _palette(border);
-		font-style: italic;
+		font-size: 1em;
+		font-weight: bold;
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}
