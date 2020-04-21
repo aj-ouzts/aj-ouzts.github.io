@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strengths
-description: 
+description: Reflections on major strengths and looking to strengthen even more. 
 nav-menu: true
 ---
 
