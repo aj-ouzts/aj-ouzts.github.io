@@ -10,7 +10,7 @@ nav-menu: true
 
 <!-- Content -->
 ### Frustrations
-To a lot of people who know me, they know I really don’t like talking about this accomplishment (nor myself in general). Its a weird existence in my life, and I definitely struggle with embracing it. I’m grateful and honored by the accomplishment, but at the same time I’m also overwhelmed by it as well, which has a lot to do with an identity insecurity. Being good at sports with all of the recognition that can come with it, tends to irritate me because that’s how certain people have chosen to define me at times.
+To a lot of people who know me, they know I really don’t like talking about this accomplishment (nor myself in general). Its a weird existence in my life, and I definitely struggle with embracing it. I’m grateful and honored by the accomplishment, but at the same time I’m also overwhelmed by it as well, which has a lot to do with an identity insecurity. Being good at sports comes with recognition, however it irritates me when some people choose to use that to define me.
 
 When I think about being an All-American, I reflect back to the sacrifices made and the struggle that was endured leading up to the accomplishment. Naturally speaking I was a better football player than baseball player when I made the decision going into my 10th grade year to just play baseball. I had the opportunity to be the starting QB, but I believed (with counsel of my parents), that I had a better long-term outlook with baseball.
 
