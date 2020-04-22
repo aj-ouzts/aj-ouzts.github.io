@@ -3,8 +3,7 @@ title: A.J. Ouzts II
 subtitle: Purposely Driven Ambition
 email: aj.ouzts.ii@protonmail.com
 description: Welcome and learn more about who I am,<br /> what drives me, and what I've done.
-baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: 
 author:
 port: 4001
 
@@ -13,16 +12,8 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: https://instagram.com
-linkedin_url: www.linkedin.com/in/alonzo-ouzts-ii-19048056
-pinterest_url:
-slack_url:
-twitter_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/alonzo-a-j-ouzts-ii-19048056
 
 # build settings
 markdown: kramdown
