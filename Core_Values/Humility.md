@@ -30,7 +30,7 @@ nav-menu: false
 
 ### Reflection
 
-Humility is a unique core value, because of my background in athletics and accumulating knowledge on a subjects. It's definitely a value I have to be aware of because it feeds into one of my major weaknesses of being a lone wolf. Being a lone wolf is how pride tends to manifests itself in my life. Some may not see it as a pride issue, but for me personally it is.
+Humility is a unique core value, because of my background in athletics and accumulating knowledge on a subjects; It's definitely a value I have to be aware of because it feeds into one of my major weaknesses of being a lone wolf. Being a lone wolf is how pride tends to manifests itself in my life. Some may not see it as a pride issue, but for me personally it is.
 
 I’ve never felt and I still don’t feel inferior to anyone no matter the status of the individual, because at the end of the day we're all human. A person's position, authority, or accomplishments are definitely to be honored and they’ll get the full respect of what’s due in context of the situation, and I can appreciate that people do certain things better than me and vice versa. 
 
