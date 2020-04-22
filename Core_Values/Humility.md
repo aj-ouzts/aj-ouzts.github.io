@@ -30,3 +30,8 @@ nav-menu: false
 
 ### Reflection
 
+Humility is a unique core value, because of my background in athletics and accumulating knowledge on a subjects. It's definitely a value I have to be aware of because it feeds into one of my major weaknesses of being a lone wolf. Being a lone wolf is how pride tends to manifests itself in my life. Some may not see it as a pride issue, but for me personally it is.
+
+I’ve never felt and I still don’t feel inferior to anyone no matter the status of the individual, because at the end of the day we're all human. A person's position, authority, or accomplishments are definitely to be honored and they’ll get the full respect of what’s due in context of the situation, and I can appreciate that people do certain things better than me and vice versa. 
+
+I believe, being humble does, not mean you lack confidence, on the contrary I don’t think you can completely embody being humble without having a confident hope. Truly confident people, from what I’ve observed, have no problem with letting others be all who they are even getting attention. I believe being humble is just doing and thinking of ways to make the lives of those around me better. The theme verse incapsulates Who my confident submission should be in.
