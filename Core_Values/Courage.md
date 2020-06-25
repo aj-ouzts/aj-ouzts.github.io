@@ -28,8 +28,8 @@ nav-menu: false
 <hr>
 
 ### Reflection
-I’ve been having a unique view on courage as I’ve learned to unpack this value and apply it consistently into my life. One way that has manifested itself is in encouraging other people. To encourage someone means to give courage and confidence to someone. It sounds counterintuitive, but I gain more courage in my day to day when I encourage other people. It becomes fun and infectious and it creates a cool culture. It takes nothing away from me as a person to encourage other people. 
+I’ve had a unique view of courage as I’ve learned to unpack this value and apply it consistently into my life. One way that has manifested itself is in encouraging other people. To encourage someone means to give courage and confidence to someone. It sounds counterintuitive, but I gain more courage in my day to day when I encourage other people. It becomes fun and infectious, and it creates a cool culture. It takes nothing away from me as a person to encourage other people. 
 
-My reasoning for encouraging other people has a lot to do with the encouraging environment my parents demonstrated and still continue to do to this day. They tell me on a very consistent basis how proud they are of both my sister and I. My parents don’t flatter anyone, on the contrary they are graciously blunt. They continue to challenge me to grow in the areas where I struggle in, but also praise the places where I’ve grown. So I put into practice similar principles they’ve shown, though in my own unique way. 
+My reasoning for encouraging other people has a lot to do with the encouraging environment my parents demonstrated and continue to do to this day. They tell me on a very consistent basis how proud they are of both my sister and I. My parents don’t flatter anyone, on the contrary, they are graciously blunt. They continue to challenge me to grow in the areas where I struggle and praise the places where I’ve grown. So I put into practice similar principles they’ve shown, though in my unique way. 
 
-I believe, everyone needs to be encouraged to grow and be challenged which is a great way to give and cultivate courage. Be encouraged.
+I believe everyone needs to be encouraged to grow and be challenged, which is a great way to give and cultivate courage. Be encouraged.

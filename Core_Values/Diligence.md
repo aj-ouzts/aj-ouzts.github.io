@@ -30,4 +30,4 @@ nav-menu: false
 
 ### Reflection
 
-Diligence is a value that finds ways to impact all my other values. It’s fundamental to hard work and practice and is the antithesis to procrastination. The more I practice diligence the more I desire to grow in all aspects of my personhood. I find that a close relative to diligence is discipline and they work in tandem to produce consistent excellence and results. I believe being consistent and dependable are qualities worth embodying and being know for. So I definitely strive to grow in being diligent. 
+Diligence is a value that finds ways to impact all my other values. It’s fundamental to hard work and practice and is the antithesis of procrastination. The more I practice diligence, the more I desire to grow in all aspects of my personhood. I find that a close relative to diligence is discipline, and they work in tandem to produce consistent excellence and results. I believe being consistent and dependable are qualities worth embodying and for being known. So I strive to grow in being diligent. 
